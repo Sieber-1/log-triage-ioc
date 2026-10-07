@@ -1,0 +1,15 @@
+2026-08-14 09:01:12 auth SUCCESS user=alice ip=10.0.0.5
+2026-08-14 09:03:44 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:46 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:48 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:50 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:52 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:55 auth FAILURE user=admin ip=203.0.113.66
+2026-08-14 09:03:58 auth SUCCESS user=admin ip=203.0.113.66
+2026-08-14 09:10:00 auth FAILURE user=bob ip=198.51.100.23
+2026-08-14 09:10:05 auth FAILURE user=carol ip=198.51.100.23
+2026-08-14 09:10:09 auth FAILURE user=dave ip=198.51.100.23
+2026-08-14 09:10:13 auth FAILURE user=erin ip=198.51.100.23
+2026-08-14 09:10:17 auth FAILURE user=frank ip=198.51.100.23
+2026-08-14 09:10:21 auth FAILURE user=grace ip=198.51.100.23
+2026-08-14 09:15:00 auth SUCCESS user=alice ip=45.61.99.10
